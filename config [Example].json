@@ -1,0 +1,8 @@
+{
+    "token": "YOUR BOT TOKEN",
+    "prefix": "YOUR CUSTOM PREFIX FOR COMMANDS",
+    "imdb_api": "YOUR API KEY",
+    "tmdb_api": "YOUR API KEY",
+    "rawg_api": "YOUR API KEY",
+    "genius_api" : "YOUR API KEY"
+  }
